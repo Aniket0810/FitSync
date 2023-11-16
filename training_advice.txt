@@ -1,0 +1,7 @@
+Upper: Inclined
+Upper: Curls
+Upper: Pull Ups
+Upper: Bench Press
+Upper: Push Ups
+Upper: Inclined_Press
+Lower: Lunges
