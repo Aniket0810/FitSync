@@ -1,5 +1,3 @@
-# FitSync
-# ------TEAM MEMBERS------
-# 1.Shashwat Sharma E22CSEU0126
-# 2.Sankalp Bijalwan E22CSEU0140
-# 3.Aniket Saroj E22CSEU0144
+# Fit_Sync (Fitness Coach Application)
+Tools/Technologies Used: C++ , MySQL(database) Created a fitness coach that provides personalized exercise advice
+and workout schedules. Enabled users to track progress and set fitness goals for improved health management.
